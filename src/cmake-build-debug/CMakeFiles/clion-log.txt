@@ -1,0 +1,14 @@
+"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\frati\CLionProjects\Middleware
+-- Boost version: 1.67.0
+-- Found the following Boost libraries:
+--   system
+--   filesystem
+-- Boost_INCLUDE_DIRS: C:/MinGW/include/
+-- Boost_LIBRARIES: C:/MinGW/lib/libboost_system.a;C:/MinGW/lib/libboost_filesystem.a
+-- Boost_VERSION: 106700
+-- Found OpenMP_C: -fopenmp  
+-- Found OpenMP_CXX: -fopenmp  
+-- Found OpenMP: TRUE   
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/frati/CLionProjects/Middleware/cmake-build-debug

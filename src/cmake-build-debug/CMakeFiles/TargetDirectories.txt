@@ -1,0 +1,3 @@
+C:/Users/frati/CLionProjects/Middleware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/frati/CLionProjects/Middleware/cmake-build-debug/CMakeFiles/Middleware.dir
+C:/Users/frati/CLionProjects/Middleware/cmake-build-debug/CMakeFiles/edit_cache.dir
