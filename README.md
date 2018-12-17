@@ -1,6 +1,6 @@
 # OpenMP-DEBS-2013
 
-INDEX OF CONTENTS:  
+## INDEX OF CONTENTS:  
 
   * [Documentation](https://github.com/marckw94/OpenMP-DEBS-2013/blob/master/DocumentazioneOpenMP.pdf)
 
